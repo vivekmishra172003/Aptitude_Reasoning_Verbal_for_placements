@@ -1,0 +1,46 @@
+Percentage Use Ratio Method Questions
+A number is increased by 25%, and then it becomes 600. What is the original number?
+Answer: 480
+
+A number is decreased by 20%, and then it becomes 120. What is the original number?
+Answer: 150
+
+A number is decreased by 33⅓%, and then it becomes 180. What is the original number?
+Answer: 270
+
+The total income of Yash Sir in 2017, 2018, and 2019 is Rs. 364. Every year the salary increases by 20%. What was his income in 2017?
+Answer: 100
+
+Confusing Percentage Questions
+32 is what percentage of 80?
+Answer: 40%
+
+What percentage of 26 is 52?
+Answer: 200%
+
+18% of a number is 90. What is the number?
+Answer: 500
+
+If x/y = 4 and y is not 0, what percentage of x is 2x - y?
+a) 150%
+b) 175%
+c) 200%
+d) 250%
+e) Cannot be determined
+Answer: 150%
+
+Price and Consumption Adjustment Questions
+The price of sugar is increased by 10%. In order to keep the expenditure constant, by what percentage must the consumption be reduced?
+Answer: 9.09%
+
+The price of tea powder decreases by 25%. In order to keep the expenditure constant, by what percentage must the consumption be increased?
+Answer: 33.33%
+
+QA is 25% less than QB. By what percentage is QB more than QA?
+Answer: 33.33%
+
+The Indian Film Industry is 2/7 richer than the Indian TV Industry. By what percentage is the Indian TV Industry less rich than the Indian Film Industry?
+Answer: 28.57%
+
+The price of gold increases by 40%. By how much must the quantity of ornaments be reduced to keep the expenditure the same?
+Answer: 28.57%
